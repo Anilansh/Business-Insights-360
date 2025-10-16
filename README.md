@@ -33,7 +33,9 @@ The goal is to empower stakeholders with data-driven decision-making through a u
 The project uses a **Snowflake Schema** for structured data relationships between different dimensions.  
 
 <img width="660" height="334" alt="Data Model" src="https://github.com/user-attachments/assets/9e1a587a-95c4-4f0d-aec2-e82105f80c65" />
+
 Data Model
+
 
 ---
 
@@ -45,7 +47,9 @@ Data Model
 **Highlights:** Includes year-over-year comparisons, division/channel revenue split, and top-performing markets and customers.  
 
 <img width="626" height="353" alt="Finance" src="https://github.com/user-attachments/assets/1d34d847-2357-45ee-8cb5-d288cf841d1a" />
+
 Finance View
+
 
 ---
 
@@ -54,10 +58,14 @@ Finance View
 **Highlights:** Features a performance matrix, product-level profitability, and region-wise contribution to total revenue. Also includes a trend tooltip.  
 
 <img width="625" height="353" alt="Sales" src="https://github.com/user-attachments/assets/8a1dbffc-0431-4589-8452-4af295d76a58" />
+
 Sales View
 
+
 <img width="626" height="354" alt="Sales View with Tooltip" src="https://github.com/user-attachments/assets/27e04a6c-c149-4b7e-b616-095108e94d0d" />
+
 Sales View with Trend Tooltip
+
 
 ---
 
@@ -66,7 +74,9 @@ Sales View with Trend Tooltip
 **Highlights:** Displays market share trends, yearly GM% and Net Profit%, and customer/product revenue leaders.  
 
 <img width="627" height="353" alt="Marketing" src="https://github.com/user-attachments/assets/b51e6155-4010-4ae7-9e18-40096b80690b" />
+
 Marketing View
+
 
 ---
 
@@ -75,7 +85,9 @@ Marketing View
 **Highlights:** Showcases customer and product-level forecast accuracy, net error trends, and overall supply chain performance.  
 
 <img width="627" height="354" alt="Supply Chain" src="https://github.com/user-attachments/assets/5f40a652-aeb6-4b0c-b06d-d38e8de26991" />
+
 Supply Chain View
+
 
 ---
 
@@ -84,7 +96,9 @@ Supply Chain View
 **Highlights:** Drill-through capabilities for department-level performance analysis and region-based filtering.  
 
 <img width="627" height="351" alt="Executive View" src="https://github.com/user-attachments/assets/a642b990-fe94-44ab-bf9d-94976123146f" />
+
 Executive View
+
 
 ---
 
