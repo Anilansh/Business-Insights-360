@@ -94,7 +94,7 @@ The project uses a **Snowflake Schema** for structured data relationships betwee
 ---
 
 ## 📦 Deliverables
-- [🔗 Live Power BI Dashboard](#) *[Insert your Power BI Service link here](https://app.powerbi.com/view?r=eyJrIjoiNWRiMGY2NjYtMmI2ZS00OGI4LThhZGUtMjMwZjUxMDdkZjMxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)*  
+- [🔗 Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWRiMGY2NjYtMmI2ZS00OGI4LThhZGUtMjMwZjUxMDdkZjMxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)*  
 
 ---
 
