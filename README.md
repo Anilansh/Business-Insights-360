@@ -50,7 +50,8 @@ The project uses a **Snowflake Schema** for structured data relationships betwee
 **Purpose:** Tracks revenue, profitability, and market share trends to support financial decision-making.  
 **Highlights:** Includes year-over-year comparisons, division/channel revenue split, and top-performing markets and customers.  
 
-<img src="images/Finance.PNG" width="800">
+<img width="626" height="353" alt="Finance" src="https://github.com/user-attachments/assets/1d34d847-2357-45ee-8cb5-d288cf841d1a" />
+
 
 
 ---
