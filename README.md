@@ -32,9 +32,8 @@ The goal is to empower stakeholders with data-driven decision-making through a u
 ## Data Model
 The project uses a **Snowflake Schema** for structured data relationships between different dimensions.  
 
+![Data Model](https://github.com/Anilansh/Business-Insights-360/blob/31189e85fa539b200e63a35472199c50785594db/Images/Data%20Model.PNG)
 
-
-Data Model
 
 
 ---
